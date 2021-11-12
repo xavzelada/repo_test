@@ -26,3 +26,4 @@ Things you may want to cover:
 - [ ] (for unchecked checkbox)
 - [x] (for checked checkbox)
 - [x] (for checked checkbox)
+- [ ] (for unchecked checkbox)
